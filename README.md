@@ -1,0 +1,2 @@
+# efmregi
+efm reg sfifa
