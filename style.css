@@ -1,0 +1,46 @@
+#h1{
+    font-family: sans-serif;
+    color:blue ;
+}
+#l1{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+#s1:hover{
+color:blue;
+text-decoration: underline;
+font-weight: bold;
+}
+#dev1{
+border-radius: 100px;
+width: 200px;
+height: 40px;
+}
+.card{
+border: 1px solid black;
+}
+.card:hover{
+border: 2px solid blue;
+border-radius: 20px;
+background-color: white;
+
+}
+
+#id1:focus{
+background-color: blue;
+color: white;
+}
+#id2:focus{
+background-color: blue;
+color: white;
+}
+.class1{
+text-align: right;
+}
+.class1:hover{
+text-align: right;
+text-decoration: underline;
+}
+.img1{
+  width:50px;
+}
